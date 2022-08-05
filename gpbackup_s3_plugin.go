@@ -12,7 +12,7 @@ import (
 func main() {
 	gplog.InitializeLogging("gpbackup_s3_plugin", "")
 	app := cli.NewApp()
-	cli.VersionFlag = cli.BoolFlag{
+	cli.VersionFlag = cli.BoolTFlag{
 		Name:  "version",
 		Usage: "print version of gpbackup_s3_plugin",
 	}
