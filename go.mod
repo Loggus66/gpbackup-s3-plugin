@@ -1,4 +1,4 @@
-module github.com/greenplum-db/gpbackup-s3-plugin
+module github.com/Loggus66/gpbackup-s3-plugin
 
 go 1.17
 
