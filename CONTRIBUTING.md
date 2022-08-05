@@ -2,7 +2,7 @@
 
 We warmly welcome and greatly appreciate contributions from the
 community. By participating you agree to the [code of
-conduct](https://github.com/greenplum-db/gpbackup-s3-plugin/blob/master/CODE-OF-CONDUCT.md).
+conduct](https://github.com/Loggus66/gpbackup-s3-plugin/blob/master/CODE-OF-CONDUCT.md).
 Overall, we follow GPDB's comprehensive contribution policy. Please
 refer to it [here](https://github.com/greenplum-db/gpdb#contributing)
 for details.
@@ -11,7 +11,7 @@ for details.
 
 * Sign our [Contributor License Agreement](https://cla.pivotal.io/sign/greenplum)
 * Fork the gpbackup-s3-plugin repository on GitHub
-* Run `go get github.com/greenplum-db/gpbackup-s3-plugin/...` and add
+* Run `go get github.com/Loggus66/gpbackup-s3-plugin/...` and add
   your fork as a remote
 * Run `make depend` to install required dependencies
 * Follow the README to set up your environment

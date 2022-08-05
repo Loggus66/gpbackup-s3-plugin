@@ -33,3 +33,5 @@ require (
 	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
+
+replace github.com/greenplum-db/gpbackup-s3-plugin => github.com/Loggus66/gpbackup-s3-plugin latest

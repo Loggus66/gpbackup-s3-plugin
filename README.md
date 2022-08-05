@@ -14,7 +14,7 @@ The project requires the Go Programming language version 1.13 or higher. Follow 
 ## Downloading
 
 ```bash
-go get github.com/greenplum-db/gpbackup-s3-plugin/...
+go get github.com/Loggus66/gpbackup-s3-plugin/...
 ```
 
 ## Building and installing binaries
